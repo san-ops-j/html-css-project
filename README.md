@@ -1,3 +1,3 @@
-# html-css-project
-this is my first web project
+ # html-css-project
+This is my first Git Repository. 
 Author-sanjay N
